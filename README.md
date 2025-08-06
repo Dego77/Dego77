@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## where to find me
+
+##SKILL
+![Andorid](https://img.shields.io/badge/Andorid-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)</br>
