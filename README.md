@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 ## where to find me
 
-##SKILL
+##SKILL:
 ![Andorid](https://img.shields.io/badge/Andorid-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)</br>
