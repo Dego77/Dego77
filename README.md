@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 
 ## SKILLs:
 ![Andorid](https://img.shields.io/badge/Andorid-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)</br>
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)</br>
