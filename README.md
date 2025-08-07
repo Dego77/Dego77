@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## where to find me
 
 ## SKILLs:
 ![Andorid](https://img.shields.io/badge/Andorid-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)</br>
