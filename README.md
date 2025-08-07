@@ -1,4 +1,11 @@
-## Soy Diego Fernando Banegas Bruno 👋
+## Hola, mi name is Diego Fernando Banegas Bruno 👋
+🎓 Estudiante & Desarrollador Full-Stack | HTML | CSS | JavaScript
+🚀 Multifacético, autodidacta y siempre hambriento de nuevos retos.
+💡 Lo que hago:
+
+Desarrollo páginas web (frontend y backend) aunque aún no soy Senior... ¡pero voy en camino!
+
+Aprendo rápido y me adapto a cualquier stack (total, ¡Google y Stack Overflow son mis mejores mentores!).
 
 <!--
 **Dego77/Dego77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
