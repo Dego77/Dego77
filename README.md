@@ -28,3 +28,4 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)
 ![MySql](https://img.shields.io/badge/MySql-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)
 ![Apache NetBeans IDE](https://img.shields.io/badge/-Apache%20NetBeans%20IDE-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white&labelColor=101010)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)</br>
