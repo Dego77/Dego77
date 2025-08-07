@@ -1,6 +1,7 @@
 ## Hola, mi name is Diego Fernando Banegas Bruno 👋
 🎓 Estudiante & Desarrollador Full-Stack | HTML | CSS | JavaScript
 🚀 Multifacético, autodidacta y siempre hambriento de nuevos retos.
+
 💡 Lo que hago:
 
 Desarrollo páginas web (frontend y backend) aunque aún no soy Senior... ¡pero voy en camino!
