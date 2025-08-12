@@ -30,4 +30,5 @@ Here are some ideas to get you started:
 ![Apache NetBeans IDE](https://img.shields.io/badge/-Apache%20NetBeans%20IDE-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white&labelColor=101010)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)
 ![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white&labelColor=101010)</br>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=101010)
