@@ -1,5 +1,5 @@
 ## Hola, mi Nombre es  Diego Fernando Banegas Bruno 👋
-
+![Mi Banner](./assets/banner.png)
 🎓 Estudiante & Desarrollador Full-Stack | HTML | CSS | JavaScript</br>
 🚀 Multifacético, autodidacta y siempre hambriento de nuevos retos.</br>
 
