@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.svg" alt="Terminal de Dego77 en Kali Linux" width="100%" />
+     <img src="./banner.svg" alt="Terminal de Dego77 en Kali Linux" width="100%" />
 </div>
 
 ## Hola, mi Nombre es  Diego Fernando Banegas Bruno 👋
