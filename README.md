@@ -1,5 +1,9 @@
+<div align="center">
+  <img src="./assets/banner.svg" alt="Terminal de Dego77 en Kali Linux" width="100%" />
+</div>
+
 ## Hola, mi Nombre es  Diego Fernando Banegas Bruno 👋
-![Mi Banner](./assets/banner.png)
+
 🎓 Estudiante & Desarrollador Full-Stack | HTML | CSS | JavaScript</br>
 🚀 Multifacético, autodidacta y siempre hambriento de nuevos retos.</br>
 
@@ -25,7 +29,8 @@ Here are some ideas to get you started:
 -->
 
 ## SKILLs:
-![Andorid](https://img.shields.io/badge/Andorid-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-3B9EFF?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=101010)
+![Android](https://img.shields.io/badge/Andorid-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)
 ![MySql](https://img.shields.io/badge/MySql-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)
 ![Apache NetBeans IDE](https://img.shields.io/badge/-Apache%20NetBeans%20IDE-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white&labelColor=101010)
