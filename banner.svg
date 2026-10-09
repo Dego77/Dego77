@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 380" width="900" height="380" role="img" aria-label="Terminal de Dego77 en Kali Linux">
+  <style>
+    text { font-family: 'DejaVu Sans Mono', 'Ubuntu Mono', Consolas, 'Courier New', monospace; }
+    .logo { fill: #3b9eff; font-size: 11px; font-weight: bold; }
+    .k { fill: #3b9eff; font-weight: bold; }
+    .v { fill: #c9d1d9; }
+    .dim { fill: #6e7681; }
+    .info { font-size: 14px; }
+    .l { opacity: 0; animation: aparecer 0.4s ease forwards; }
+    .cursor { animation: parpadeo 1s steps(1) infinite; }
+    .glow { animation: brillo 3s ease-in-out infinite; }
+    @keyframes aparecer { to { opacity: 1; } }
+    @keyframes parpadeo { 50% { opacity: 0; } }
+    @keyframes brillo { 0%, 100% { opacity: 1; } 50% { opacity: 0.65; } }
+  </style>
+
+  <!-- Ventana -->
+  <rect width="900" height="380" rx="10" fill="#0d1117" stroke="#30363d"/>
+  <rect width="900" height="34" rx="10" fill="#161b22"/>
+  <rect y="24" width="900" height="10" fill="#161b22"/>
+  <circle cx="22" cy="17" r="6" fill="#ff5f56"/>
+  <circle cx="42" cy="17" r="6" fill="#ffbd2e"/>
+  <circle cx="62" cy="17" r="6" fill="#27c93f"/>
+  <text x="450" y="22" text-anchor="middle" class="dim" font-size="12">dego77@kali: ~</text>
+
+  <!-- Dragon de Kali Linux en azul -->
+  <text class="logo glow" xml:space="preserve" x="24" y="48"><tspan x="24" dy="14">..............</tspan><tspan x="24" dy="14">            ..,;:ccc,.</tspan><tspan x="24" dy="14">          ......''';lxO.</tspan><tspan x="24" dy="14">.....''''..........,:ld;</tspan><tspan x="24" dy="14">           .';;;:::;,,.x,</tspan><tspan x="24" dy="14">      ..'''.            0Xxoc:,.  ...</tspan><tspan x="24" dy="14">  ....                ,ONkc;,;cokOdc',.</tspan><tspan x="24" dy="14"> .                   OMo           ':ddo.</tspan><tspan x="24" dy="14">                    dMc               :OO;</tspan><tspan x="24" dy="14">                    0M.                 .:o.</tspan><tspan x="24" dy="14">                    ;Wd</tspan><tspan x="24" dy="14">                     ;XO,</tspan><tspan x="24" dy="14">                       ,d0Odlc;,..</tspan><tspan x="24" dy="14">                           ..',;:cdOOd::,.</tspan><tspan x="24" dy="14">                                    .:d;.':;.</tspan><tspan x="24" dy="14">                                       'd,  .'</tspan><tspan x="24" dy="14">                                         ;l   ..</tspan><tspan x="24" dy="14">                                          .o</tspan><tspan x="24" dy="14">                                            c</tspan><tspan x="24" dy="14">                                            .'</tspan><tspan x="24" dy="14">                                             .</tspan></text>
+
+  <!-- Info estilo neofetch -->
+  <g class="info">
+    <text x="380" y="80" class="l" style="animation-delay:0.2s"><tspan class="dim">$ </tspan><tspan class="v">neofetch --perfil</tspan></text>
+    <text x="380" y="112" class="l" style="animation-delay:0.6s"><tspan class="k">dego77</tspan><tspan class="v">@</tspan><tspan class="k">kali</tspan></text>
+    <text x="380" y="130" class="l dim" style="animation-delay:0.8s">-----------</text>
+    <text x="380" y="154" class="l" style="animation-delay:1.0s"><tspan class="k">Nombre: </tspan><tspan class="v">Diego Fernando Banegas Bruno</tspan></text>
+    <text x="380" y="176" class="l" style="animation-delay:1.2s"><tspan class="k">Rol: </tspan><tspan class="v">Estudiante &amp; Desarrollador Full-Stack</tspan></text>
+    <text x="380" y="198" class="l" style="animation-delay:1.4s"><tspan class="k">OS: </tspan><tspan class="v">Kali GNU/Linux Rolling x86_64</tspan></text>
+    <text x="380" y="220" class="l" style="animation-delay:1.6s"><tspan class="k">Frontend: </tspan><tspan class="v">HTML · CSS · JavaScript · React · Vue.js</tspan></text>
+    <text x="380" y="242" class="l" style="animation-delay:1.8s"><tspan class="k">Backend: </tspan><tspan class="v">Laravel · Python · MySQL</tspan></text>
+    <text x="380" y="264" class="l" style="animation-delay:2.0s"><tspan class="k">Extras: </tspan><tspan class="v">Android · Unity</tspan></text>
+    <text x="380" y="286" class="l" style="animation-delay:2.2s"><tspan class="k">Estado: </tspan><tspan class="v">aún no Senior... ¡pero en camino!</tspan></text>
+
+    <!-- Paleta de colores -->
+    <g class="l" style="animation-delay:2.5s">
+      <rect x="380" y="304" width="22" height="14" fill="#0b3d91"/>
+      <rect x="402" y="304" width="22" height="14" fill="#1565c0"/>
+      <rect x="424" y="304" width="22" height="14" fill="#1e88e5"/>
+      <rect x="446" y="304" width="22" height="14" fill="#3b9eff"/>
+      <rect x="468" y="304" width="22" height="14" fill="#7cc0ff"/>
+      <rect x="490" y="304" width="22" height="14" fill="#c9d1d9"/>
+    </g>
+
+    <text x="380" y="348" class="l" style="animation-delay:2.8s"><tspan class="dim">$ </tspan><tspan class="v cursor">█</tspan></text>
+  </g>
+</svg>
